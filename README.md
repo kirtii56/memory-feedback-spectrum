@@ -25,4 +25,4 @@ The scripts reproduce illustrative numbers and check algebraic identities. They 
 | 3 | Linux, Python 3.13.16, SymPy 1.14.0 | 25 checks, 0 failures |
 
 ## License
-Add a LICENSE file of your choice (for example MIT) before publishing.
+MIT. See `LICENSE`.
